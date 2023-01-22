@@ -1,0 +1,47 @@
+.Flash-card-cont {
+  width: 370px;
+  height: 480px;
+  padding: 10px;
+  /* border: 1px solid green; */
+  background-color: #ffffff;
+  /* border-radius: 100px; */
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  transition: transform 500ms ease-in-out;
+  /* margin-right: 30px; */
+}
+.Flash-card-cont:hover {
+  transform: scale(1.05);
+}
+.Flash-card-content {
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+.Flash-card-content > div {
+  text-align: left;
+}
+.Flash-card-content > div > p {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #6e6e73;
+  line-height: 16px;
+}
+.Flash-card-content > div > h2 {
+  margin-bottom: 20px;
+  margin-bottom: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+.Flash-card-img-div > img {
+  width: 280px;
+}

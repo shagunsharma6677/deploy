@@ -1,0 +1,42 @@
+.ft-top-sec > ul > li {
+  color: #6e6e73;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 0px 0px 9.6px;
+  /* background-color: #000000; */
+  vertical-align: baseline;
+  letter-spacing: -0.12px;
+
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: rgb(110, 110, 115);
+  text-align: left;
+  text-indent: 0px;
+}
+
+.ft-low-sec {
+  justify-content: space-evenly;
+}
+.ft-ul {
+  margin-bottom: 10px;
+}
+
+.ft-ul > li {
+  /* margin-bottom: px; */
+  color: #424245;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 0px 0px 9.6px;
+  text-align: start;
+  cursor: pointer;
+}
+.ft-ul > li:hover{
+    text-decoration: underline;
+}
+.ft_head {
+  color: #1d1d1f;
+  font-weight: 600;
+  text-decoration: underline;
+}

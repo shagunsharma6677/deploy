@@ -1,0 +1,180 @@
+.mac {
+  background-color: black;
+  height: 70vh;
+  border: 2px solid blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #F5F5F7; */
+}
+.mac-sec {
+  background-color: #f5f5f7;
+}
+
+/* .mac-banner > div {
+  font-size: 100px;
+  color: white;
+} */
+.mac-sec > div {
+  margin-bottom: 50px;
+}
+.cards-carol {
+  /* width: 50vw; */
+  border: 1px solid green;
+  margin: auto;
+  /* width: 90vw; */
+  /* margin-left: 500px; */
+}
+.mac-all-models {
+  margin: auto;
+  margin-left: 20vw;
+}
+.cards-carol > Carousel > Cards {
+  margin-right: 25px;
+}
+
+.mac-all-models > h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-decoration: rgb(29, 29, 31);
+  margin-bottom: 30px;
+}
+.mac-all-models > h2 > span {
+  color: #6e6e73;
+}
+/*7777777777777777777777777777777777777777777777777777*/
+
+.mac-access-models {
+  margin: auto;
+  margin-left: 20vw;
+}
+
+/* .access-cards-carol > Carousel > Access_Cards {
+  margin-right: 10px;
+} */
+
+.mac-access-models > h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-decoration: rgb(29, 29, 31);
+  margin-bottom: 30px;
+}
+.mac-access-models > h2 > span {
+  color: #6e6e73;
+}
+
+/*546555555555555555555555555555555555555555555555*/
+
+.mac-flash-models {
+  margin: auto;
+  margin-left: 20vw;
+}
+
+.flash-cards-carol > Carousel > Flash_card {
+  margin-right: 20px;
+}
+
+.mac-flash-models > h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-decoration: rgb(29, 29, 31);
+  margin-bottom: 30px;
+}
+.mac-flash-models > h2 > span {
+  color: #6e6e73;
+}
+.mac-banner-cont > img {
+  width: 100%;
+}
+.mac-banner-cont {
+  background-image: url("https://www.apple.com/v/mac/home/bs/images/overview/holiday-2023/cny23_familypage_banner__f2ocdw1w53yq_large.jpg");
+  width: 1380px;
+  height: 584px;
+  background-size: 1380px 584px;
+  background-repeat: no-repeat;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mac-banner-cont > h3 {
+  color: #ffffff;
+  font-size: 48px;
+  line-height: 52px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.mac-banner-cont > div {
+  /* border: 1px solid red; */
+  width: 30%;
+}
+
+.mac-banner-cont > div > p {
+  font-size: 21px;
+  line-height: 29px;
+  color: #ffffff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.mac-banner-cont > p {
+  font-size: 21px;
+  line-height: 29px;
+  color: #ffffff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.mac-flash-2 {
+  border: 1px solid green;
+  /* width: 420px; */
+  height: 550px;
+  /* border: 1px solid green; */
+  background-color: #ffffff;
+  /* border-radius: 100px; */
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+.Flash-card-2 {
+  border: 1px solid green;
+  width: 460px;
+  height: 500px;
+  /* border: 1px solid green; */
+  background-color: #ffffff;
+  /* border-radius: 100px; */
+  /* box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px; */
+    justify-content: center;
+    margin: auto;
+}
+.flash-2-img{
+  border: 1px solid blue;
+}
+
+.mac-video {
+  /* height: 100px; */
+  border: 1px solid green;
+  justify-content: center;
+  background-color: black;
+  
+}
+.mac-video > video {
+  width: 67vw;
+  margin: auto;
+  /* object-fit: contain; */
+}
+.bg_banner_cont{
+  /* background-image: url("https://www.apple.com/v/mac/home/bs/images/overview/get-more/business__dhhbnntkcwuq_large.jpg"); */
+  width: 1200px;
+  height: 70vh;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.bg_banner_cont > p{
+  color: white;
+}

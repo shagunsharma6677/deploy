@@ -1,0 +1,24 @@
+.Acc-Cards-cont {
+  /* border: 1px solid blue; */
+  width: 330px;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  transition: transform 500ms ease-in-out;
+}
+.Acc-Cards-cont:hover {
+  transform: scale(1.05);
+}
+
+.Acc-cards-img-div {
+  padding: 30px;
+}
+
+.Acc-cards-img-div > img {
+  width: 300px;
+  /* border: 1px solid red; */
+}

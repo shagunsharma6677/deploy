@@ -1,0 +1,142 @@
+{
+  "macAllModels": [
+    {
+      "id": 1,
+      "title": "MacBook Air with M1 chip",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202110?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1664576115052",
+      "price": "999"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air with M2 chip",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202206?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1653499620093",
+      "price": "1199"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro 13”",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-13-202206?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1665082744007",
+      "price": "1299"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Pro 14” and 16”",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-14-16-202301?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1670463778272",
+      "price": "1999"
+    },
+    {
+      "id": 5,
+      "title": "iMac 24”",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202108?wid=490&hei=500&fmt=jpeg&qlt=95&.v=1625868688000",
+      "price": "1299"
+    },
+    {
+      "id": 6,
+      "title": "Mac mini",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202301?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1670549737872",
+      "price": "599"
+    }
+  ],
+  "macAccess": [
+    {
+      "id": 7,
+      "title": "Magic Mouse - Black Multi-Touch Surface",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMQ3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1645138486301",
+      "price": "99"
+    },
+    {
+      "id": 8,
+      "title": "35W Dual USB-C Port Conpact Power Adapter",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MNWM3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1652736144126",
+      "price": "59"
+    },
+    {
+      "id": 9,
+      "title": "USB-C to MagDafe Cable (2 m) - Silver",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MLYV3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1653520581388",
+      "price": "49"
+    },
+    {
+      "id": 10,
+      "title": "Studio Display stand ",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK0U3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1646446502337",
+      "price": "1599"
+    },
+    {
+      "id": 11,
+      "title": "Magic Keyboard with Touch ID for Mac",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMR3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1645719947833",
+      "price": "199"
+    },
+    {
+      "id": 12,
+      "title": "Magic Trackpad",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMP3?wid=200&hei=200&fmt=jpeg&qlt=95&.v=1645136899926",
+      "price": "199"
+    }
+  ],
+  "saveOn": [
+    {
+      "id": 13,
+      "title": "Trade in your device,get credit toward a new one.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-50-tradein-202108?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1651768767939"
+    },
+    {
+      "id": 14,
+      "title": "Pay 0% APR over 12 month on Monthly Installments",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-50-monthly-installments-202210?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1664396475865",
+      "price": "99"
+    },
+    {
+      "id": 15,
+      "title": "Get 3% back in Daily Cash with Apple Card.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-50-apple-card-202108?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1625760821000",
+      "price": "99"
+    },
+    {
+      "id": 16,
+      "title": "Pay 0% APR over 12 month on Monthly Installments",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-50-monthly-installments-202210?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1664396475865",
+      "price": "99"
+    },
+    {
+      "id": 17,
+      "title": "Trade in your device,get credit toward a new one.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-50-tradein-202108?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1651768767939"
+    },
+    {
+      "id": 18,
+      "title": "Pay 0% APR over 12 month on Monthly Installments",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-50-monthly-installments-202210?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1664396475865",
+      "price": "99"
+    },
+    {
+      "id": 19,
+      "title": "Get 3% back in Daily Cash with Apple Card.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-50-apple-card-202108?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1625760821000",
+      "price": "99"
+    },
+    {
+      "id": 20,
+      "title": "Pay 0% APR over 12 month on Monthly Installments",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-50-monthly-installments-202210?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1664396475865",
+      "price": "99"
+    }
+  ],
+  "shop": [
+    {
+      "buy": {
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202206?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1653499620093",
+        "title": "MacBook Air with M2 chip",
+        "price": "1199",
+        "id": 2,
+        "tabIndex": -1,
+        "style": {
+          "width": "100%",
+          "display": "inline-block"
+        }
+      },
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+nav {
+  margin: auto;
+  border: 1px solid blue;
+  /* padding: 10px; */
+  background-color: black;
+  /* background-color: #161617; */
+  color: white;
+}
+.nav-ul > li {
+  margin: auto;
+  
+}
+.nav-ul > li > a {
+    color: RGB(245, 245, 247);
+  font-size: 14px;
+  line-height: 54px;
+  /* margin: 0px;
+  padding: 0px 8px; */
+
+  /* font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: rgb(245, 245, 247);
+  text-align: left;
+  text-indent: 0px; */
+}

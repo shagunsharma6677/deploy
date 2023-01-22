@@ -1,0 +1,28 @@
+.Cards-cont {
+  border: 1px solid blue;
+  width: 350px;
+  height: 500px;
+  box-sizing: border-box;
+  padding: 50px;
+  /* padding-top: 0; */
+  justify-content: center;
+  box-sizing: border-box;
+  align-items: center;
+  margin: 20px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  transition: transform 500ms ease-in-out;
+}
+.Cards-cont:hover {
+  transform: scale(1.05);
+}
+
+.cards-img-div {
+  /* padding: 40px; */
+}
+
+.cards-img-div > img {
+  width: 275px;
+}

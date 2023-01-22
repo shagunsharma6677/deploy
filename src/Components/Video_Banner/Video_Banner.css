@@ -1,0 +1,12 @@
+.video_banner {
+    /* height: 100px; */
+    border: 1px solid green;
+    justify-content: center;
+    background-color: black;
+    
+  }
+  .video_banner > video {
+    width: 61vw;
+    margin: auto;
+    /* object-fit: contain; */
+  }
